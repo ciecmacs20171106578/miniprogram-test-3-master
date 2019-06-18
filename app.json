@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/about/about",
+    "pages/weekly/weekly"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "text": "每周推荐",
+        "pagePath": "pages/weekly/weekly",
+        "iconPath": "images/icons/two.png",
+        "selectedIconPath": "images/icons/one.png"
+      },
+      {
+        "text": "关于",
+        "pagePath": "pages/about/about",
+        "iconPath": "images/icons/four.png",
+        "selectedIconPath": "images/icons/three.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

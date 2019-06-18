@@ -1,0 +1,14 @@
+<view class='container'>
+   <image src="/images/pase.jpg" class='about-banner'></image>
+   <text style='font-size:60rpx;font-weight:bold;'>电影周周看</text>
+   <text>电影周周看</text>
+     <view>
+       <text>我</text><navigator style='display: inline;'  url='/pages/weekly/weekly' open-type='navigate' hover-class='nav-hover' class='nav-default'>每周推荐</navigator><text>一部好片：关注我</text>
+       </view>
+       <text>我的微博：www.sgfuaguif.com</text>
+     
+   
+   
+ <text></text>
+</view>
+<text class="info" id="001"style="" bindtap="f0" hidden="true"data-usser-name="user">内蒙古师范大学计算机科学技术学院</text>
